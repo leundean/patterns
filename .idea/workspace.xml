@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ccc802-1af0-4180-ba31-46ee0dc69e1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/FluteInstrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/HarpString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/HarpToFluteAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/StringInstrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/WoodFlute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/BuildingBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/BuildingBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Door.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Door.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Roof.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Roof.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Wall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Wall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Window.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observable/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observable/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observable/PCLObservable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observable/PCLObservable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observable/PCLObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observable/PCLObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/visitor/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/visitor/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/visitor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/visitor/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/visitor/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/visitor/Orange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/visitor/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/visitor/Visitor.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +168,7 @@
       <workItem from="1565691530934" duration="706000" />
       <workItem from="1566119812591" duration="17510000" />
       <workItem from="1567758115361" duration="599000" />
-      <workItem from="1579941573384" duration="11714000" />
+      <workItem from="1579941573384" duration="12587000" />
     </task>
     <servers />
   </component>

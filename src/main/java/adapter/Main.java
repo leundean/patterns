@@ -1,10 +1,7 @@
 package adapter;
 
 
-
 public class Main {
-
-    // TODO: Follow example
 
     static void playSequenceFluteInstrumnent(FluteInstrument fluteInstrument, String[] toneSequence) {
         if (fluteInstrument.isFineTuned()) {

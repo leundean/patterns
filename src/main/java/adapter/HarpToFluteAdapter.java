@@ -10,6 +10,8 @@ public class HarpToFluteAdapter implements StringInstrument {
         this.fluteInstrument = fluteInstrument;
     }
 
+    // Wrapped methods
+
     @Override
     public boolean isFineTuned() {
         return fluteInstrument.isFineTuned();
